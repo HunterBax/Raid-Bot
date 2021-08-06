@@ -1,0 +1,6 @@
+@echo off
+color a 
+Title Please wait 
+echo Please Wait...
+npm install
+echo Completed...
